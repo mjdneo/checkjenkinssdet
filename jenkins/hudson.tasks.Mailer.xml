@@ -1,0 +1,6 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.tasks.Mailer_-DescriptorImpl plugin="mailer@489.vd4b_25144138f">
+  <hudsonUrl>https://8080-eaadbbafdeebcfdbeebbfdecfeffbfaeafb.premiumproject.examly.io/</hudsonUrl>
+  <useSsl>false</useSsl>
+  <useTls>false</useTls>
+</hudson.tasks.Mailer_-DescriptorImpl>
